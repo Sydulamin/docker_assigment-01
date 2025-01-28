@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==4.2
+djangorestframework==3.14.0
+python-decouple==3.8
+pytz==2024.2
+setuptools==75.8.0
+sqlparse==0.5.3
+tzdata==2025.1
+whitenoise==6.5.0
